@@ -1,0 +1,21 @@
+h1 {
+    color:darkmagenta ;
+    border: 5px;
+    background: linear-gradient(#00ccff,#b3f0ff);
+    text-align: center;
+    text-shadow: 1px 1px black;
+}
+h3{
+    color:rgb(69, 19, 170);
+    text-align: center;
+    text-shadow: 2px 2px 3px white;
+}
+body {
+background-color: lightsteelblue;
+}
+.borderimg{
+    border-right: 5px, solid lightcoral;
+}
+ol li{
+    font color:choclate;
+}
